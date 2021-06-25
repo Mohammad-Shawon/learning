@@ -1,0 +1,2 @@
+rootProject.name = "Postu test"
+include ':app'
